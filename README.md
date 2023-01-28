@@ -18,6 +18,8 @@ This one was adapted from the infos present in the Echoes in Space course materi
 
 # References
 
+Paradella, W. R., Mura, J. C., & Gama, F. F. (2021). Monitoramento DInSAR para mineração e geotecnia. Oficina de Textos.
+
 # Final speech
 
 This code is part of the Erli's Ph.D. thesis and its papers (author: Erli Pinto dos Santos).
