@@ -6,7 +6,7 @@ Here is a way to see how SAR remote sensing has evolved in the number of orbital
 
 ![SAR_missions_and_frequency](https://user-images.githubusercontent.com/52005057/215283861-c6adafa3-f6ca-42df-bf5c-6d05cdae240f.png)
 
-## Chart one: Radar orbital mission timeline and they polarization imaging capabilities:
+## Chart two: Radar orbital mission timeline and they polarization imaging capabilities:
 
 ![SAR_missions_and_polarization](https://user-images.githubusercontent.com/52005057/215283913-37272894-a96d-408d-8f4c-40f5d23bb654.png)
 
