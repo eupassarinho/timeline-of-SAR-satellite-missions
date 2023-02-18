@@ -1,5 +1,7 @@
 # Timeline of most known SAR (Synthetic Aperture Radar) orbital missions
 
+[![DOI](https://zenodo.org/badge/593753739.svg)](https://zenodo.org/badge/latestdoi/593753739)
+
 This repo contains:
 1) An excel sheet for storing the SAR satellite information;
 2) R scripts and Rproject (for RStudio) to visualize the information in a timeline.

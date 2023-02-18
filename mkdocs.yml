@@ -1,2 +1,8 @@
 site_name: Timeline of Synthetic Aperture Radar orbital missions
 theme:
+  name: material
+  palette:
+    primary: black
+    locale: en
+
+repo_url: https://github.com/eupassarinho/timeline-of-SAR-satellite-missions.git

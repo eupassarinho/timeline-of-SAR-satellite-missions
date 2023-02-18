@@ -1,5 +1,9 @@
 # Timeline of most known SAR (Synthetic Aperture Radar) orbital missions
 
+[![DOI](https://zenodo.org/badge/593753739.svg)](https://zenodo.org/badge/latestdoi/593753739)
+
+Erli Pinto dos Santos
+
 Here is a way to see how SAR remote sensing has evolved in the number of orbital missions (from specific to operational imaging projects), the polarization capabilities, and the operation frequency of SAR sensors. Viewing the below-presented charts is easy to realize why the Brazilian scientists, Waldir Paradella, José Mura, and Fabio Gama, stated that the 2010s decade was the age of microwave remote sensing.
 
 ## Chart one: radar orbital missions timeline and operating frequency
