@@ -13,5 +13,3 @@ https://eupassarinho.github.io/timeline-of-SAR-satellite-missions/
 This code and documentation is part of the Erli's Ph.D. thesis and its papers (author: Erli Pinto dos Santos).
 
 Enjoy it, and feel free to contact me anytime.
-
-By the way... you can contact me at: erlipinto@gmail.com (preferencially) or erli.santos@ufv.br
